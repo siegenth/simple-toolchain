@@ -10,10 +10,10 @@ For more information about toolchains, see [Custom toolchains in one click with 
 
 
 * Questions you need to answer. 
-** Create Streams Instance y/n : ?
-** Create Message Hub y/n : ?
-** Create Liberty Server y/n : ?
-** Can you 'connect' Liberty -> Streams y/n : ?
-** Can you 'connect' Hub -> Streams y/n : ?
+* Create Streams Instance y/n : ?
+* Create Message Hub y/n : ?
+* Create Liberty Server y/n : ?
+* Can you 'connect' Liberty -> Streams y/n : ?
+* Can you 'connect' Hub -> Streams y/n : ?
 
 

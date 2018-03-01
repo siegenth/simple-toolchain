@@ -8,3 +8,12 @@ To get started, click **Create toolchain**.
 
 For more information about toolchains, see [Custom toolchains in one click with IBM Bluemix DevOps Services](https://developer.ibm.com/devops-services/2016/06/16/open-toolchain-with-ibm-bluemix-devops-services/).
 
+
+* Questions you need to answer. 
+** Create Streams Instance y/n : ?
+** Create Message Hub y/n : ?
+** Create Liberty Server y/n : ?
+** Can you 'connect' Liberty -> Streams y/n : ?
+** Can you 'connect' Hub -> Streams y/n : ?
+
+
